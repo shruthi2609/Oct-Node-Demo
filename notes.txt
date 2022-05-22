@@ -1,0 +1,13 @@
+npm packages:
+
+for authorization:
+oAuth2.0
+
+for documentation:
+swagger
+
+for logging:
+
+
+for testing:
+mocha
